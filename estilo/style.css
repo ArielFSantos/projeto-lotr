@@ -8,6 +8,7 @@
     margin: 0px;
 }
 header{
+    font-size: 4vh;
     background-color: black;
     color: goldenrod;
     text-align: center;
@@ -20,12 +21,59 @@ header h1{
 header p{
     padding-bottom: 30px;
 }
-div{
-    width: 80vw;
+main{
+    color: white;
+    width: 100%;
+}
+div {
+    box-shadow: inset 3px 3px 3px 2px rgba(0, 0, 0, 0.432);
+    background-position: top center;
+    padding-top: 08vh;
+    padding-bottom: 10vh;
+}
+div  > p {
+    font-size: 03vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.438);
+    width: 40vw;
+    margin-top: 30vh;
+    margin-left: 10vw;
+}
+.theoden{
+    background-image: url('../imagens/theoden.jpg');
+    background-size: cover;
+    height: 70vh;
+    
+    
 
 }
+
+ .gandalf{
+    background-size: cover;
+    background-image: url('../imagens/gandalf.jpg');
+    height: 85vh;
+    background-attachment: fixed;
+}
+.eowyn{
+    background-image: url('../imagens/eowyn.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 80vh;
+}
+.gandalf2 {
+    
+    background-image: url('../imagens/gandalf2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 85vh;
+}
+.aragorn{
+    background-image: url('../imagens/aragorn.jpg');
+    background-size: cover;
+    height: 85vh;
+}
 footer{
-    text-align: right;
+    text-align: center;
     color: goldenrod;
     background-color: black;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.445);
