@@ -1,0 +1,32 @@
+@charset "UTF-08";
+@font-face {
+    font-family: lotr;
+    src: url('RINGM___.TTF');
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: black;
+    color: goldenrod;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.445);
+}
+header h1{
+    font-family: lotr;
+    padding-top: 30px;
+}
+header p{
+    padding-bottom: 30px;
+}
+div{
+    width: 80vw;
+
+}
+footer{
+    text-align: right;
+    color: goldenrod;
+    background-color: black;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.445);
+}
