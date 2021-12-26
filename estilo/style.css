@@ -4,8 +4,9 @@
     src: url('RINGM___.TTF');
 }
 * {
-    padding: 0px;
     margin: 0px;
+    padding: 0px;
+    
 }
 header{
     font-size: 4vh;
@@ -45,7 +46,7 @@ div  > p {
     background-image: url('../imagens/theoden.jpg');
     background-size: cover;
     height: 70vh;
-    
+   
     
 
 }
