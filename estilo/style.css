@@ -4,6 +4,7 @@
     src: url('RINGM___.TTF');
 }
 * {
+    scroll-behavior: smooth;
     margin: 0px;
     padding: 0px;
     
