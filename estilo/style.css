@@ -8,6 +8,13 @@
     padding: 0px;
     
 }
+#seta img{
+    position: fixed;
+    bottom: 30px;
+    right: 60px;
+    width: 150px;
+    height: 150px;
+}
 header{
     font-size: 4vh;
     background-color: black;
