@@ -10,11 +10,12 @@
     
 }
 #seta img{
+    width: 9%;
+    bottom: 5vh;
+    right: 5vw;
     position: fixed;
-    bottom: 30px;
-    right: 60px;
-    width: 150px;
-    height: 150px;
+
+     
 }
 header{
     font-size: 4vh;
